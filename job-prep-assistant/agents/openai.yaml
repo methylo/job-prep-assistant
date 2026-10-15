@@ -1,0 +1,13 @@
+interface:
+  display_name: 나만의 취업준비 비서
+  short_description: 목표·회사 선택부터 이력서·자소서 수정, 면접 연습과 입사 판단까지 돕는 취업 비서
+  default_prompt: $job-prep-assistant로 내 자료와 희망 조건을 확인하고 지금 필요한 취업 준비 단계부터 진행해줘.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
