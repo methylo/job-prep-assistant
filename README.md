@@ -1,5 +1,9 @@
 # 나만의 취업준비 비서 (job-prep-assistant)
 
+> 책 〈클로드 스킬 가이드〉 — [예스24에서 보기](https://www.yes24.com/product/goods/199636519)
+>
+> 독자 단톡방 「AI 책쓰기: 집필의 기술」 — [카카오톡 오픈채팅 참여](https://open.kakao.com/o/ghqbvP0h)
+
 구직자 개인의 목표·희망 조건 설정부터 공고 비교, 지원 서류 작성·수정, 포트폴리오, 면접 연습, 입사 제안 비교까지 돕는 스킬(Skill)입니다. 확인된 경험으로 작업하고, 없는 경력·자격·수치는 만들지 않습니다.
 
 **세부 파일 보기:** [스킬 폴더](job-prep-assistant/) · [실행 지침 SKILL.md](job-prep-assistant/SKILL.md) · [작업별 기준](job-prep-assistant/references/) · [상태·플래너 양식](job-prep-assistant/assets/)
